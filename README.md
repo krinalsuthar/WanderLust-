@@ -57,7 +57,7 @@ npm start
 ```
 6. Access the Application: Open your browser and go to:
 ```badh
-http://localhost:3000
+http://localhost:8080
 ```
 
 Feel free to contribute, star ⭐, and share your feedback! Happy coding! 😃
