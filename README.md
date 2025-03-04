@@ -49,7 +49,7 @@ SESSION_SECRET=your_session_secret
 ```
 4. Configure MongoDB:
 ```bash
-MONGO_URI=mongodb+srv://username:password@cluster0.mongodb.net/open-ashram?retryWrites=true&w=majority
+MONGO_URI=mongodb+srv://username:password@cluster0.mongodb.net/test?retryWrites=true&w=majority
 ```
 5. Start the Application:
 ```bash
